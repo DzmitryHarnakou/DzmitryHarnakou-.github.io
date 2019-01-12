@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\EPAM_FE_Project\movieDB\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\EPAM_FE-gh-pages\DzmitryHarnakou.github.io\src\styles.css */"./src/styles.css");
 
 
 /***/ })
